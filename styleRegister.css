@@ -1,0 +1,35 @@
+body{   
+    background-image: url("money.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    margin: 0 auto;
+    font-size: 14px;
+    }
+#ui{
+background-color: rgb(189, 195, 199,0.7);
+margin-top: 60px;
+padding:30px;
+}
+ul{
+list-style-type: none;
+}
+#p2{
+color:white;
+font-weight: 200px;
+}
+#heading{
+width:30%;
+margin:50px auto 0px;
+color:white;
+background:#2ecc71;
+text-align:center;
+border:3px solid #ecf0f1;
+border-bottom: none;
+border-radius: 10px 10px 10px 10px;
+padding:20px;
+}
+.error{
+color: #FF0000;
+font-weight:bold;
+font-size:22px;
+}

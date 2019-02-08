@@ -1,0 +1,33 @@
+#sidenav{
+    list-style-type: none;
+    padding:0px;
+    margin:0px;
+    background-color:#2ecc71;
+    width:100px;
+    height:90%;
+    position:fixed;
+    margin-top:-20px;
+}
+#sidenav li a{
+    text-decoration: none;
+    color:white;
+    display:block;
+    padding:20px 20px;
+}
+li a:hover{
+    background-color: #1abc9c;
+    color:white;
+}
+.details{
+    background-color:#c7ecee;
+    color:black;
+    border-radius:10px 10px 10px 10px;
+    padding:20px 20px;
+   
+}
+#p1{
+    background-color: black;
+    color:white;
+    text-align: center;
+    padding:10px;
+}
